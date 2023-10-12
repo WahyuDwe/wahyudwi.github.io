@@ -1,4 +1,4 @@
-<a href="https://themes.3rdwavemedia.com/bootstrap-templates/popular/devblog-free-bootstrap-4-blog-template-for-developers/" target="_blank"><img src="https://themes.3rdwavemedia.com/wp-content/uploads/2019/02/Bootstrap-Blog-Template-DevBlog-Pormo.jpg" alt="Bootstrap 4 Blog Template for Developers" /></a>
+<!-- <a href="https://themes.3rdwavemedia.com/bootstrap-templates/popular/devblog-free-bootstrap-4-blog-template-for-developers/" target="_blank"><img src="https://themes.3rdwavemedia.com/wp-content/uploads/2019/02/Bootstrap-Blog-Template-DevBlog-Pormo.jpg" alt="Bootstrap 4 Blog Template for Developers" /></a>
 
 ## Theme Details & Demo
 
@@ -25,7 +25,6 @@ If you'd like to **use the template without the attribution**, you can [buy the 
 [Medium](https://medium.com/@3rdwave_themes)
 
 [Linkedin](https://uk.linkedin.com/in/xiaoying)
-
 
 ## Latest Version
 **v1.1** - 12 Feb 2019
@@ -71,4 +70,4 @@ If you'd like to **use the template without the attribution**, you can [buy the 
 ## Credits
 - [Bootstrap](https://getbootstrap.com/)
 - [FontAwesome](https://fortawesome.github.io/Font-Awesome/)
-- [Highlight.js](https://highlightjs.org/)
+- [Highlight.js](https://highlightjs.org/) -->
